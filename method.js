@@ -9,6 +9,7 @@ const student = {
         name: 'kundu',
         major: 'mathematics'
     },
+    // methods
     takeExam: function(){
         // console.log(this.name, 'taking exam')
     },
